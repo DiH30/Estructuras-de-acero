@@ -19,9 +19,19 @@ Entre los ejemplos de edificios construidos con este material se encuentra el fa
 Debido a la ductilidad del material, las estructuras metálicas no se deforman fácilmente. Además, son muy resistentes al paso del tiempo y a la intemperie. Si se combina con los revestimientos o la pintura, puede prolongar en gran medida su vida útil, evitando así los residuos y requiriendo un bajo coste de mantenimiento. 
 - Los inmuebles construidos con estructura de acero demostraron ser más eficientes y resistentes a fenómenos naturales de alta intensidad como los sismos.
 
+## 5 estructuras impresionantes de acero en México.
+
+- Kiosko Morisco
+- La Torre Mayor
+- La Torre Reforma
+- El Museo Soumaya
+- Torres Obispado
+  
+![Vista Previa](https://i.postimg.cc/kGsT8BQh/Estructuras-de-acero.jpg)
+
 ## Descripción del proyecto
 
-- Útilización básica de estructura HTML Y CSS.
+- Útilización de estructura básica de HTML Y CSS.
 - Empleo de web semántica.
 - Incorporación de imágenes y videos.
 - División a base de secciones.
@@ -29,3 +39,4 @@ Debido a la ductilidad del material, las estructuras metálicas no se deforman f
   ## Código
 
   ![Vista Previa](https://i.postimg.cc/gkZ65DKK/c-digo-proyecto-8-1-0.jpg)
+  ![Vista Previa](https://i.postimg.cc/LXtMf8Yc/c-digo-proyecto-8-2-0.jpg)
