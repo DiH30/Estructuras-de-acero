@@ -12,5 +12,9 @@ color: white;
 
 .Texto {text-align: justify;}
 
+.imagen-centrada {display:block; margin: 0 auto;}
+
+.titulo-cursiva {font-style: italic;}
+
 
 
