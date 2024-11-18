@@ -25,7 +25,7 @@ Debido a la ductilidad del material, las estructuras metálicas no se deforman f
 
 ## Descripción del proyecto
 
-- Útilización de estructura básica de HTML.
+- Útilización de estructura básica de HTML y algunos comandos CSS.
 - Títulos, utilización de etiquetas h1,h2,h3 y h4, con el fin de organizar la información y diferenciar secciones.
 - Cuenta con enlaces para dirigir a otras páginas.
 - Empleo de código semántico.
@@ -33,7 +33,7 @@ Debido a la ductilidad del material, las estructuras metálicas no se deforman f
 - División a base de secciones.
 - Se añadió un pequeño formulario.
 - Incluye un archivo README.md, el cuál describe brevemente el proyecto.
-- Publicación de la página web en línea utilizanzo GitHub Pages.
+- Publicación de la página web en línea utilizando GitHub Pages.
 
   ## Código
 
